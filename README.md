@@ -1,6 +1,6 @@
 # Fasta-to-Dictionary
 
-One of the primers in handle sequences in python are based on being able to store them in diferent type of object. One of them and which is really handly is dictionary. Dictionary let you to manipulate sequences . However, it is needed to transform them from a fasta file to python object for downstrem procedures. Here a simple function called `fas_to_dic` is present in order to get sequences in fasta format to a dictionary:
+
 
 ```Python
 def fas_to_dic(x):
