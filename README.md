@@ -1,6 +1,6 @@
 # Fasta-to-Dictionary
 
-
+Python offers a bunch of utilities for handling sequence data. Initial steps on sequence analyses begin with importing data to consoles. Upon uploading data, there are different data types to work with and one commonly used for managing sequences is Dictionary. However, a script or comand is needed for bringing data from a fasta file to the prior Python data type. Here a simple function called `fas_to_dic` is presented and is aimed to import data for downstream procedures:
 
 ```Python
 def fas_to_dic(x):
