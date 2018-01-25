@@ -52,5 +52,5 @@ def fas_to_dic(x):
         ##every time you have all lines of a sequence, collapse them in
         ##a single line
         values.append("".join(JustOneValue))
-	
-	return dict(zip(keys, values))
+        
+    return dict(zip(keys, values))
